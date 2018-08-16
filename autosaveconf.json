@@ -2,5 +2,5 @@
 	"saveDirectory": "C:\\Program Files (x86)\\Steam\\userdata[PUT YOUR STEAMID HERE]\\582010\\remote",
 	"backupDirectory": "monhunBackups",
 	"maxNumberOfBackups": 6,
-	"checkAssiduity": 300.0
+	"checkAssiduity": 1800
 }

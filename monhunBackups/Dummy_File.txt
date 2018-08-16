@@ -1,0 +1,1 @@
+Dummy file. Will be removed after the amount of backups exceeds the limit.
