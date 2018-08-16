@@ -58,6 +58,6 @@ class MonhunSaveAutoBackup():
 
 
 
-monhun = MonhunSaveAutoBackup("autosaveconftest.json")
+monhun = MonhunSaveAutoBackup()
 monhun.startTimer()
 print "Script started"
